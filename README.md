@@ -5,8 +5,8 @@
 ### 🛠 About me
 <p>
   <em>
-   <b>Software Developer</b><br>
-   Company: <b>Nextem</b>;
+   <b>Software Developer Jr</b><br>
+   Company: <b>Instituto Creathus</b>;
   </em>  
 </p>
 
